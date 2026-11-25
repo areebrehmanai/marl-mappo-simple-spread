@@ -1,0 +1,11 @@
+update  100 | mean team return:   -24.97 |    75s
+update  200 | mean team return:   -23.47 |   145s
+update  300 | mean team return:   -22.68 |   217s
+update  400 | mean team return:   -19.76 |   288s
+update  500 | mean team return:   -21.33 |   362s
+update  600 | mean team return:   -21.92 |   437s
+update  700 | mean team return:   -21.66 |   513s
+update  800 | mean team return:   -20.02 |   589s
+update  900 | mean team return:   -21.27 |   667s
+update 1000 | mean team return:   -19.66 |   742s
+Saved results/mappo_simple_spread.pt and results/returns.json
